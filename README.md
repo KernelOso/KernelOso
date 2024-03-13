@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente me Encuentro Estudiando Desarrollo de Software<br>🤝 Busco Ayudar a la Creación de Nuevos y Mejores Sistemas Informáticos<br>🌱 Actualmente me Encuentro Experimentando con el Uso de Linux<br>💬 Pregúntame Acerca de Lógica y Diseños de Sistemas
+🔭 Estudiante en Desarrollo de Software<br>🤝 Ayudo en la Creación de nuevos y mejores Sistemas Informáticos<br>🌱 Actualmente me Encuentro Experimentando con el Uso de Linux<br>💬 Pregúntame Acerca de Lógica y Diseños de Sistemas
 
 
 ## 🌐 Socials:
